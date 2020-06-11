@@ -21,3 +21,5 @@
 > Anyone who lives within their means suffers from a lack of imagination. ~ Oscar Wilde
 
 > Reality is merely an illusion, albeit a very persistent one. ~ Albert Einstein
+
+> The first principle is that you must not fool yourself, and you are the easiest person to fool. ~ Richard P. Feynman
