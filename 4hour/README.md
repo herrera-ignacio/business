@@ -5,47 +5,34 @@
 * __A__utomation
 * __L__iberation
 
-
-## TOC
+## Glossary
 
 * [New Rich & Lifestyle Design](./nr.md)
 * [Be a Dealmaker](./dealmaker.md)
 * [DEAL](./deal.md)
-* [Definition](./definition)
-    * New Rich vs Deferrer
-    * Rules that change the rules
-    * Dodging bullets, fear-setting and escaping paralysis
 * [Freedom Multiplier](./freedom-multiplier.md)
 
+## New Rich Thinking
 
-## Quotes
+* To have others work for you.
+* To prevent work for work's sake, and to do the minimum necessary for maximum effect (_minimum effective load_).
+* To distribute recovery periods and adventures (mini-retirements) throughout life on a regular basis and recognize that inactivity is not the goal. Doing that which excites you is.
+* To do all the things you want to do, and be all the things you want to be.
+* To be neither the boss nor the employee, but the owner. Own the trains and have someone else ensure they run on time.
+* To make a ton of money with specific reasons and defined dreams, timelins and steps.
+* To have more quality and less clutter, huge financial reserves but recognize that most material wants are justifications for spending time on things that don't really matter.
+* To thing big but ensure payday comes every day. __Cash flow first, big payday second__.
+* To have freedom from doing that which you dislike but also freedom to resolve and persue your dreams without reverting to work for work's sake.
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect. ~ Mark Twain
+## Rules that change the rule
 
-> Anyone who lives within their means suffers from a lack of imagination. ~ Oscar Wilde
-
-> Reality is merely an illusion, albeit a very persistent one. ~ Albert Einstein
-
-> The first principle is that you must not fool yourself, and you are the easiest person to fool. ~ Richard P. Feynman
-
-> Civilization had too many rules for me, so I did my best to rewrite them. ~ Bill Cosby
-
-> Once you say you're going to settle for second, that's what happens to you in life. ~ John F. Kennedy
-
-> I can't give you a surefire formula for success, but I can give you a formula for failure: try to please everybody all the time. ~ Herbert Bayard Swope
-
-> Everything popular is wrong. ~ Oscar Wilde
-
-> Many false steps were made by standing still. ~ Fortune Cookie
-
-> Named must your fear be before banish it you can. ~ Yoda, from Star Wars.
-
-> Action may not always bring happiness, but there is no happiness without action. ~ Benjamin Disraeli
-
-> Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: 'is this the condition that I fearead?'. ~ Seneca
-
-> There's no difference between a pessimist who says, "Oh, it's hopeless, so don't bother doing anything", and an optimist who says, Don't bother doing anything, it's going to turn out fine anyway". Either way, nothing happens. ~ Yvon Chouinard
-
-> You have comfort. You don't have luxury. And don't tell me that money plays a part. The luxury I dvocate has nothing to do with money. It cannot be bought. It is the reward of those who have no fear of discomfort. ~ Jean Cocteau
-
-> I am an old man and have known a great many troubles, but most of them never happened. ~Mark Twain
+1. Retirement is worst-case-scenario insurance.
+2. Interest and energy are cyclical.
+3. Less is not laziness, focus on being productive instead of busy.
+4. The timing is never right.
+5. Ask for forgiveness, not permission.
+6. Emphasize strengths, don't fix weaknesses.
+7. Things in excess become their opposite.
+8. Money alone is not the solution.
+9. Relative income is more important that absolute income.
+10. Distress is bad, eustress is good.
